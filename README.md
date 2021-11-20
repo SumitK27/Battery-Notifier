@@ -10,13 +10,13 @@
 
 ## **Description**
 
-A simple utility tool that warns you when battery is fully charged or when it's low by a beep sound.
+A CLI based battery notify tool to avoid over or under charge of your system's battery.
 
 ## **Packages Used**
 
-`psutil` for getting battery stats.
-`winsound` to produce beep sound from Windows system.
-`time` to await the execution.
+-   `psutil` for getting battery stats.
+-   `winsound` to produce beep sound from Windows system.
+-   `time` to await the execution.
 
 ## **How to Use**
 
